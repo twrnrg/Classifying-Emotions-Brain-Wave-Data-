@@ -1,6 +1,6 @@
 # Discerning whether someone is feeling good or bad using brainwave data
 
-This is a dataset of EEG brainwave data that has been processed with our original strategy of statistical extraction (paper below)
+This is a dataset of EEG brainwave data that has been processed with statistical extraction
 
 The data was collected from two people (1 male, 1 female) for 3 minutes per state - positive, neutral, negative. We used a Muse EEG headband which recorded the TP9, AF7, AF8 and TP10 EEG placements via dry electrodes. Six minutes of resting neutral data is also recorded, the stimuli used to evoke the emotions are below
 
